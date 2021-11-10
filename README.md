@@ -2,12 +2,12 @@
 マイクロソフトの Azure AD Webinar の中で提供している、条件付きアクセスのベストプラクティスポリシーについて
 設定をJSONファイルにエクスポートしたものです。
 
-■ ベストプラクティスポリシーを紹介している Web ページ
-詳説！Azure AD 条件付きアクセス - 設計のやり方編
-Azure AD Conditional Access deep dive - Design methodology
+### ベストプラクティスポリシーを紹介している Web ページ
+詳説！Azure AD 条件付きアクセス - 設計のやり方編 Azure AD Conditional Access deep dive - Design methodology
+
 https://github.com/yusukekodama/PMActivities/blob/master/Webinar/Schedule.md
 
-## ■ ファイル一覧
+## ファイル一覧
 □ P001.JSON
 P001_Require MFA for highest privileged admins
 
