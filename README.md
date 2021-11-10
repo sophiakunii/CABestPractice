@@ -7,6 +7,13 @@
 
 https://github.com/yusukekodama/PMActivities/blob/master/Webinar/Schedule.md
 
+ここにあるJSONファイルはベストプラクティスポリシーと厳密には同一ではなく、一部設定を割愛しています。
+
+#### Break Glass アカウント
+Break Glass アカウントの名前は組織によってまちまちです。そのため、本ファイルにはBreak Glass アカウントの設定は含めませんでした。
+#### N00x ポリシー
+マイクロソフト以外のクラウドサービスは組織によって使うものが異なります。そのため、Non-MSアプリのポリシーは除外しました。
+
 ## ファイル一覧
 #### P001.JSON
 P001_Require MFA for highest privileged admins
