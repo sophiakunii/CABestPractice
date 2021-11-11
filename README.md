@@ -12,7 +12,7 @@ https://github.com/yusukekodama/PMActivities/blob/master/Webinar/Schedule.md
 #### Break Glass アカウント
 - Break Glass アカウントの名前は組織によってまちまちです。そのため、本ファイルにはBreak Glass アカウントの設定は含めませんでした。
 #### P002~P003 ポリシー
-- P001と同様のポリシーであったため除外しました。
+- P001とほぼ同様のポリシーであったため除外しました。
 #### N002 ポリシー
 - マイクロソフト以外のクラウドサービスは組織によって使うものが異なります。そのため、Non-MSアプリのポリシーは N001 だけ作成し、残りは除外しました。
 
