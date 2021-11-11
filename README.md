@@ -2,12 +2,13 @@
 マイクロソフトの Azure AD Webinar の中で提供している条件付きアクセスのベストプラクティスポリシーについて
 設定をJSONファイルにエクスポートしたものです。
 
-### ベストプラクティスポリシーを紹介している Web ページ
+## ベストプラクティスポリシーを紹介している Web ページ
 - 詳説！Azure AD 条件付きアクセス - 設計のやり方編 Azure AD Conditional Access deep dive - Design methodology
 
 https://github.com/yusukekodama/PMActivities/blob/master/Webinar/Schedule.md
 
-**注** ここにあるJSONファイルはベストプラクティスポリシーと厳密には同一ではなく、一部設定を割愛しています。
+## 注意 
+ここにあるJSONファイルはベストプラクティスポリシーと厳密には同一ではなく、一部設定を割愛しています。
 #### Break Glass アカウント
 - Break Glass アカウントの名前は組織によってまちまちです。そのため、本ファイルにはBreak Glass アカウントの設定は含めませんでした。
 #### P002~P003 ポリシー
